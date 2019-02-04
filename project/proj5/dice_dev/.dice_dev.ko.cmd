@@ -1,0 +1,1 @@
+cmd_/afs/pitt.edu/home/s/i/siz24/private/cs449/proj5/dice_dev/dice_dev.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /afs/pitt.edu/home/s/i/siz24/private/cs449/proj5/dice_dev/dice_dev.ko /afs/pitt.edu/home/s/i/siz24/private/cs449/proj5/dice_dev/dice_dev.o /afs/pitt.edu/home/s/i/siz24/private/cs449/proj5/dice_dev/dice_dev.mod.o
